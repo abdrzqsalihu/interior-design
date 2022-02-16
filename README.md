@@ -24,7 +24,7 @@ Web Browser (Google Chrome recommended)
 
 ## Authors
 
-* **Abdulrazaq Salihu** - *Project Lead* - [abdrzqsalihu](https://twitter.com/abdrzqsalihu)
+* **Abdulrazaq Salihu** - *Project Lead* - [abdrzqsalihu](https://twitter.com/abdrzqsalihu).
 
 ## License
 

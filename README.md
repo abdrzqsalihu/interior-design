@@ -1,6 +1,6 @@
 # Interior Design
 
-A Simple Product Landing Page. Created from my W3 CSS Tutorial. ✌
+A Simple Product Landing Page. Created from my W3 CSS Tutorial.✌
 
 ## Getting Started
 
